@@ -27,7 +27,7 @@ HERE THE ALL GITHUB COMMENTS :
 
 # H1 Git & GitHub Commands		
 		
-
+```base
 **A. Setup & Configuration**		
 
 1	git --version	Check the installed Git version.
@@ -129,6 +129,9 @@ HERE THE ALL GITHUB COMMENTS :
 **K. Advanced & Utility Commands**		
 69	git blame <file>	Show who last modified each line in a file.
 70	git archive	Create a zip or tar archive of a repository snapshot.
+```
+
+# H2 HERE THE IMG OF ALL COMMENT'S
 
 <img width="848" height="3280" alt="image" src="https://github.com/user-attachments/assets/cb99aba2-1f27-4657-91d3-a40b5078032c" />
 
