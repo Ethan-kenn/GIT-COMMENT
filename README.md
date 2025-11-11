@@ -36,6 +36,7 @@ HERE THE ALL GITHUB COMMENTS :
 4	git config --list	View all Git configuration settings.
 5	git config --global core.editor "code --wait"	Set VS Code as the default Git editor.
 6	git config credential.helper store	Save credentials for future Git operations.
+```
 
 **B. Repository Initialization & Cloning**		
 
@@ -43,7 +44,7 @@ HERE THE ALL GITHUB COMMENTS :
 8	git init --bare	Initialize a bare repository (no working directory).
 9	git clone <repository_url>	Copy a remote repository to your local machine.
 10	git clone <url>	Clone a remote repository locally.
-
+```
 **C. Checking Repository Status & Information**
 
 11	git status	Show the current state of the working directory and staging area.
